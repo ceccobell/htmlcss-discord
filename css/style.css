@@ -113,16 +113,27 @@ h3 {
 
 .col-xl {
     width: calc(100% / 3);
-    height: 400px;
-    background-color: #F08080;
-    border: 2px dashed black;
+}
+
+.col-xl h3 {
+    color: #7289DA;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.col-xl img {
+    width: 6%;
+    height: auto;
+    margin-left: 20px;
+}
+
+.col-xl span {
+    font-size: 12px;
+    color: white;
 }
 
 .col-sm {
     width: calc((100% / 3) / 2);
-    height: 400px;
-    background-color: #20B2AA;
-    border: 2px dashed white;
 }
 
 .col-black {
