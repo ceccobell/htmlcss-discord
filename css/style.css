@@ -108,7 +108,7 @@ h3 {
     background-image: url(../img/stars.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: ;
+    margin-bottom: 20px;
 }
 
 .col-xl {
@@ -181,4 +181,8 @@ h3 {
 .btn-black {
     background-color: black;
     color: white;
+}
+
+.btn-cyan {
+    background-color: #7289DA;
 }
