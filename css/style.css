@@ -76,16 +76,25 @@ span {
 
 .col-60 {
     width: 60%;
-    height: 400px;
-    background-color: #1E90FF;
-    border: 2px dashed black;
+}
+
+.col-60 img {
+    width: 90%;
+    height: auto;
 }
 
 .col-40 {
     width: 40%;
-    height: 400px;
-    background-color: #FFC0CB;
-    border: 2px dashed black;
+}
+
+h2 {
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 30px;
+}
+
+.col-40 p {
+    line-height: 1.3;
 }
 
 .col-lg {
