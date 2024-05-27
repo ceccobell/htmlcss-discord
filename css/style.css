@@ -22,7 +22,7 @@
     text-align: center;
 }
 
-.col-50 ul {
+ul {
     list-style-type: none;
 }
 
@@ -36,7 +36,7 @@
     color: black;
 }
 
-li {
+.col-50 li {
     display: inline-block;
     margin: 10px;
 }
@@ -134,6 +134,16 @@ h3 {
 
 .col-sm {
     width: calc((100% / 3) / 2);
+    height: auto;
+}
+
+.title {
+    text-decoration: none;
+    color: #7289DA;
+}
+
+.col-sm li {
+    margin-top: 25px;
 }
 
 .col-black {
