@@ -134,7 +134,6 @@ h3 {
 
 .col-sm {
     width: calc((100% / 3) / 2);
-    height: auto;
 }
 
 .title {
@@ -148,9 +147,10 @@ h3 {
 
 .col-black {
     width: 100%;
-    padding: 10px 0px 10px 0px;
     display: flex;
     justify-content: space-between;
+    border-top: 1px solid #7289DA;
+    padding-top: 10px;
 }
 
 .content {
@@ -183,7 +183,6 @@ h3 {
 .black {
     background-color: rgba(0, 0, 0, 0.849);
     padding: 10px 200px 30px 200px;
-    margin-bottom: 1px;
 }
 
 .text-right {
