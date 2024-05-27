@@ -15,23 +15,31 @@
 
 .col-25 {
     width: 25%;
-    background-color: #e2a50b;
-    border: 2px dashed black;
 }
 
 .col-50 {
     width: 50%;
-    background-color: #e2a50b;
-    border: 2px dashed black;
     text-align: center;
 }
 
-ul {
+.col-50 ul {
     list-style-type: none;
+}
+
+.col-50 a {
+    text-decoration: none;
+    color: white;
 }
 
 li {
     display: inline-block;
+    margin: 10px;
+}
+
+.btn {
+    border-radius: 20px;
+    padding: 8px;
+    border: none;
 }
 
 .col {
@@ -93,7 +101,7 @@ li {
 }
 
 .lightblue {
-    background-color: lightblue;
+    background-color: #255EE9;
     padding: 10px 200px 10px 200px;
 }
 
@@ -120,4 +128,9 @@ li {
 
 .text-right {
     text-align: right;
+    padding-top: 5px;
+}
+
+.btn-white {
+    background-color: white;
 }
