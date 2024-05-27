@@ -148,16 +148,13 @@ h3 {
 
 .col-black {
     width: 100%;
-    background-color: #7FFFD4;
     padding: 10px 0px 10px 0px;
     display: flex;
     justify-content: space-between;
 }
 
 .content {
-    background-color: #fa9c9c;
     display: inline-block;
-    border: 1px dashed black;
     padding: 3px;
 }
 
