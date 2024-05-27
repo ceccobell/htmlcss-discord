@@ -108,6 +108,7 @@ h3 {
     background-image: url(../img/stars.svg);
     background-repeat: no-repeat;
     background-position: center;
+    back
     margin-bottom: 20px;
 }
 
@@ -130,6 +131,11 @@ h3 {
 .col-xl span {
     font-size: 12px;
     color: white;
+}
+
+.lang-container {
+    display: flex;
+    align-items: center;
 }
 
 .col-sm {
