@@ -102,6 +102,15 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 25px;
+    padding: 20px;
+    background-image: url(../img/stars.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: ;
+}
+
 .col-xl {
     width: calc(100% / 3);
     height: 400px;
